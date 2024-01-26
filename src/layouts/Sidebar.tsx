@@ -42,7 +42,7 @@ export function Sidebar() {
         <SmallSidebarItem Icon={Repeat} title="Shorts" url="/shorts" />
         <SmallSidebarItem
           Icon={Clapperboard}
-          title="Subscriptions"
+          title="Subs"
           url="/subscriptions"
         />
         <SmallSidebarItem Icon={Library} title="Library" url="/library" />
